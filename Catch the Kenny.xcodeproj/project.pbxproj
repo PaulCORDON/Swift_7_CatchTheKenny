@@ -14,6 +14,7 @@
 		39A940B32293D4DE0037A9E8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39A940B12293D4DE0037A9E8 /* LaunchScreen.storyboard */; };
 		39A940BE2293D4DE0037A9E8 /* Catch_the_KennyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A940BD2293D4DE0037A9E8 /* Catch_the_KennyTests.swift */; };
 		39A940C92293D4DE0037A9E8 /* Catch_the_KennyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A940C82293D4DE0037A9E8 /* Catch_the_KennyUITests.swift */; };
+		39A940D72293D5860037A9E8 /* Kenny.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 39A940D62293D5860037A9E8 /* Kenny.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		39A940C42293D4DE0037A9E8 /* Catch the KennyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Catch the KennyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		39A940C82293D4DE0037A9E8 /* Catch_the_KennyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Catch_the_KennyUITests.swift; sourceTree = "<group>"; };
 		39A940CA2293D4DE0037A9E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39A940D62293D5860037A9E8 /* Kenny.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Kenny.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				39A940A82293D4DD0037A9E8 /* AppDelegate.swift */,
 				39A940AA2293D4DD0037A9E8 /* ViewController.swift */,
 				39A940AC2293D4DD0037A9E8 /* Main.storyboard */,
+				39A940D62293D5860037A9E8 /* Kenny.jpg */,
 				39A940AF2293D4DE0037A9E8 /* Assets.xcassets */,
 				39A940B12293D4DE0037A9E8 /* LaunchScreen.storyboard */,
 				39A940B42293D4DE0037A9E8 /* Info.plist */,
@@ -230,6 +233,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				39A940B32293D4DE0037A9E8 /* LaunchScreen.storyboard in Resources */,
+				39A940D72293D5860037A9E8 /* Kenny.jpg in Resources */,
 				39A940B02293D4DE0037A9E8 /* Assets.xcassets in Resources */,
 				39A940AE2293D4DD0037A9E8 /* Main.storyboard in Resources */,
 			);
